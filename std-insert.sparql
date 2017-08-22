@@ -1,4 +1,5 @@
 #+ endpoint: http://virtuoso.amp.ops.labs.vu.nl/sparql
+#+ summary: Inserts two triples
 
 PREFIX dc: <http://purl.org/dc/elements/1.1/>
 INSERT DATA
